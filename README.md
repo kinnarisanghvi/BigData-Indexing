@@ -30,6 +30,6 @@ Postman client
 Elastic Search
 
 # Build and Deploy instructions for web application
-Clone the repository from https://github.com/nishadranadive/Bigdata-Indexing.git
+Clone the repository from https://github.com/kinnarisanghvi/Bigdata-Indexing.git
 Run the project using command mvn spring-boot:run in intellIj Terminal
 Do Crud Operations using Postman.
